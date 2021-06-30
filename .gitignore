@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+
+# Python enviroment
+venv/
+
+# API cache
+.cache-drakkaroy
+
+# Local tokens
+keys.py
+keys.sh
+
+# Local data examples
+data/
+
